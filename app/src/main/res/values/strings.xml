@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My BMI Calculator</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="lastDate">Last Calculated Date: </string>
+    <string name="lastBMI">Last Calculated BMI: </string>
+    <string name="viewselect">Customised View</string>
+    <string name="no_past">No Past Data</string>
+    <string name="clear">Reset Data</string>
+    <string name="message">BMI Detail</string>
+</resources>
